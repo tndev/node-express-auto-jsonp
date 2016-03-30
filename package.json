@@ -1,0 +1,19 @@
+{
+  "name": "express-auto-jsonp",
+  "version": "0.0.0",
+  "description": "This is a auto jsonp middleware, that will automatically convert a regular response to a jsonp response.",
+  "contributors": [
+    "Till Niese <info@tn-dev.com>"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "on-headers": "^1.0.1"
+  },
+  "devDependencies": {
+    "express": "^4.13.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
